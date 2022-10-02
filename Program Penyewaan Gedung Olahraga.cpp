@@ -21,7 +21,7 @@ int main(){
         cout<<endl;
         cout<<"Masukan nama : ";
         cin>>book.nama[i];
-        cout<<"Masukan durasi penyewaan :";
+        cout<<"Masukan durasi penyewaan (jam) :";
         cin>>book.lama[i];
         cout<<"Masukan tanggal penyewaan (dd/mm/yy): ";
         cin>>book.tanggal[i];
